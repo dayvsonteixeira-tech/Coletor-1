@@ -1,0 +1,13 @@
+{
+  "name": "RAN Estoque",
+  "short_name": "RAN Estoque",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F1720",
+  "theme_color": "#0F1720",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
